@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66948157205",
+    "project_id": "dog-catcher-be892",
+    "storage_bucket": "dog-catcher-be892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66948157205:android:5f8ca9119be89c80a4e31c",
+        "android_client_info": {
+          "package_name": "com.example.dog_catcher_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx4iSnugEs8j9UuCSIv3mL7o-q_iKDjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
